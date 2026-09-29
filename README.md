@@ -16,7 +16,7 @@ https:
 - scikit_learn==1.2.0
 
 ### Requirements
-The proposed HCGC is implemented with python 3.7 on a NVIDIA 2080Ti GPU. 
+The proposed HyperCGC is implemented with python 3.7 on a NVIDIA 2080Ti GPU. 
 Python package information is summarized in **requirements.txt**:
 
 
